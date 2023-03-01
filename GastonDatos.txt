@@ -1,6 +1,11 @@
 Nombre: Gastón
 Apellido: Rojas
 Edad: 25
+<<<<<<< HEAD
 Fecha de nacimiento : 22/09/1997
 
 Aprendiendo a programar desde 2021
+=======
+Fecha de nacimiento: 22/09/1997
+Provincia: Buenos Aires
+>>>>>>> e72c39ae2febbb565ae99f39426d1a5e3924320e
