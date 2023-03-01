@@ -2,3 +2,5 @@ Nombre: Gastón
 Apellido: Rojas
 Edad: 25
 Fecha de nacimiento : 22/09/1997
+
+Aprendiendo a programar desde 2021
